@@ -17,8 +17,8 @@ const Nav = () => {
   return (
     <nav className="navbar">
       <div className="navbar__logo" onClick={() => navigate('/')}>
-  <img src="/images/CraveCart.png" alt="CraveCart Logo" className="navbar__logo-img" />
-  CraveCart
+  <img src="/images/Foodsprint.jpg" alt="CraveCart Logo" className="navbar__logo-img" />
+  FoodSprint
 </div>
 
       {/* <div className="navbar__logo" onClick={() => navigate('/')}>CraveCart</div> */}
